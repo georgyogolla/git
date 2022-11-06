@@ -3,5 +3,6 @@ body {
 }
 p {
     color: antiquewhite;
-    font-size: 2rem;
+    font-size: 4rem;
+    font-style: italic;
 }
